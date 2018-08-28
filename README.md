@@ -2,11 +2,13 @@
 
 Transform a frame-rate value into an human readable string.
 
-## Usage
+## Installation
 
 ```console
 $ npm install pretty-frame-rate
 ```
+
+## Usage
 
 ```js
 const prettyFrameRate = require('pretty-frame-rate');
