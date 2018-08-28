@@ -53,4 +53,4 @@ This project is licensed under the [MIT license](LICENSE).
 [coveralls link]: https://coveralls.io/github/dimitrinicolas/pretty-frame-rate?branch=master
 
 [pretty-ms]: https://github.com/sindresorhus/pretty-ms
-[pretty-pretty-bytes]: https://github.com/sindresorhus/pretty-pretty-bytes
+[pretty-bytes]: https://github.com/sindresorhus/pretty-bytes
