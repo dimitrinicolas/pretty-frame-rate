@@ -1,6 +1,6 @@
 {
   "name": "pretty-frame-rate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform a frame-rate value into an human readable string (\"30000/1001\" -> \"29.97fps\")",
   "license": "MIT",
   "main": "index.js",
